@@ -1,0 +1,28 @@
+[11:02:58] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:02:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:02:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:02:58] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:02:58] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:02:58] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[11:02:58] [Server thread/INFO]: Loading properties
+[11:02:58] [Server thread/INFO]: Default game type: SURVIVAL
+[11:02:58] [Server thread/INFO]: Generating keypair
+[11:02:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:02:58] [Server thread/INFO]: Using default channel type
+[11:02:58] [Server thread/INFO]: Preparing level "imobileworld"
+[11:02:58] [Server thread/INFO]: Reloading ResourceManager: Default
+[11:02:59] [Server thread/INFO]: Loaded 6 recipes
+[11:02:59] [Server thread/INFO]: Loaded 811 advancements
+[11:02:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:03:00] [Server thread/INFO]: Preparing spawn area: 0%
+[11:03:00] [Server thread/INFO]: Preparing spawn area: 0%
+[11:03:01] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[11:03:01] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[11:03:02] [Server-Worker-7/INFO]: Preparing spawn area: 99%
+[11:03:02] [Server-Worker-7/INFO]: Preparing spawn area: 99%
+[11:03:02] [Server-Worker-7/INFO]: Preparing spawn area: 99%
+[11:03:02] [Server thread/INFO]: Time elapsed: 3263 ms
+[11:03:02] [Server thread/INFO]: Done (4.247s)! For help, type "help"
+[11:24:40] [User Authenticator #1/INFO]: UUID of player Marvinna513 is a466e6b7-e620-400e-97cb-0d8cd2ece3ed
+[11:24:40] [Server thread/INFO]: Marvinna513[/25.37.137.142:60070] logged in with entity id 44 at (-777.1850707496228, 65.0, -407.019937227578)
+[11:24:40] [Server thread/INFO]: Marvinna513 joined the game

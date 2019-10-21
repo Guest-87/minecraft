@@ -1,0 +1,47 @@
+[19:43:43] [Server thread/INFO]: Loading properties
+[19:43:43] [Server thread/INFO]: Default game type: SURVIVAL
+[19:43:43] [Server thread/INFO]: Generating keypair
+[19:43:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:43:44] [Server thread/INFO]: Using default channel type
+[19:43:44] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-7554e08 (MC: 1.14.4) (Implementing API version 1.14.4-R0.1-SNAPSHOT)
+[19:43:44] [Server thread/INFO]: Preparing level "imobileworld"
+[19:43:44] [Server thread/INFO]: Found new data pack file/bukkit, loading it automatically
+[19:43:44] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[19:43:45] [Server thread/INFO]: Loaded 6 recipes
+[19:43:45] [Server thread/INFO]: ---- Migration of old nether folder required ----
+[19:43:45] [Server thread/INFO]: Unfortunately due to the way that Minecraft implemented multiworld support in 1.6, Bukkit requires that you move your nether folder to a new location in order to operate correctly.
+[19:43:45] [Server thread/INFO]: We will move this folder for you, but it will mean that you need to move it back should you wish to stop using Bukkit in the future.
+[19:43:45] [Server thread/INFO]: Attempting to move imobileworld\DIM-1 to imobileworld_nether\DIM-1...
+[19:43:45] [Server thread/INFO]: Success! To restore nether in the future, simply move imobileworld_nether\DIM-1 to imobileworld\DIM-1
+[19:43:45] [Server thread/INFO]: ---- Migration of old nether folder complete ----
+[19:43:45] [Server thread/INFO]: ---- Migration of old the_end folder required ----
+[19:43:45] [Server thread/INFO]: Unfortunately due to the way that Minecraft implemented multiworld support in 1.6, Bukkit requires that you move your the_end folder to a new location in order to operate correctly.
+[19:43:45] [Server thread/INFO]: We will move this folder for you, but it will mean that you need to move it back should you wish to stop using Bukkit in the future.
+[19:43:45] [Server thread/INFO]: Attempting to move imobileworld\DIM1 to imobileworld_the_end\DIM1...
+[19:43:45] [Server thread/INFO]: Success! To restore the_end in the future, simply move imobileworld_the_end\DIM1 to imobileworld\DIM1
+[19:43:46] [Server thread/INFO]: ---- Migration of old the_end folder complete ----
+[19:43:46] [Server thread/INFO]: Preparing start region for dimension 'imobileworld'/minecraft:overworld
+[19:43:46] [Server thread/INFO]: Preparing spawn area: 0%
+[19:43:46] [Server thread/INFO]: Preparing spawn area: 0%
+[19:43:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[19:43:47] [Server thread/INFO]: Preparing spawn area: 79%
+[19:43:48] [Server-Worker-4/INFO]: Preparing spawn area: 99%
+[19:43:48] [Server-Worker-4/INFO]: Preparing spawn area: 99%
+[19:43:49] [Server-Worker-7/INFO]: Preparing spawn area: 99%
+[19:43:49] [Server thread/INFO]: Time elapsed: 3081 ms
+[19:43:49] [Server thread/INFO]: Preparing start region for dimension 'imobileworld_nether'/minecraft:the_nether
+[19:43:49] [Server thread/INFO]: Preparing spawn area: 0%
+[19:43:49] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[19:43:50] [Server-Worker-6/INFO]: Preparing spawn area: 15%
+[19:43:50] [Server-Worker-6/INFO]: Preparing spawn area: 38%
+[19:43:51] [Server-Worker-6/INFO]: Preparing spawn area: 51%
+[19:43:51] [Server-Worker-5/INFO]: Preparing spawn area: 67%
+[19:43:52] [Server-Worker-4/INFO]: Preparing spawn area: 84%
+[19:43:52] [Server-Worker-1/INFO]: Preparing spawn area: 99%
+[19:43:52] [Server thread/INFO]: Time elapsed: 3527 ms
+[19:43:52] [Server thread/INFO]: Preparing start region for dimension 'imobileworld_the_end'/minecraft:the_end
+[19:43:52] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[19:43:53] [Server-Worker-4/INFO]: Preparing spawn area: 31%
+[19:43:53] [Server-Worker-6/INFO]: Preparing spawn area: 83%
+[19:43:53] [Server thread/INFO]: Time elapsed: 1135 ms
+[19:43:53] [Server thread/INFO]: Done (9.225s)! For help, type "help"
