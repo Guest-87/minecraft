@@ -13,9 +13,11 @@
 command-block-overrides: []
 ignore-vanilla-permissions: false
 aliases:
+  icanhasbukkit:
+  - version $1-
   cr:
-  - "gamemode creative"
+  - gamemode creative
   sr:
-  - "gamemode survival"
+  - gamemode survival
   ghost:
-  - "gamemode spectator"
+  - gamemode spectator

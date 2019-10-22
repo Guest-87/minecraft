@@ -1,0 +1,106 @@
+data-version: 1
+'4':
+  uniqueId: aa6ce842-161d-4fc7-ac51-48a754982e76
+  name: ''
+  world: imobileworld
+  x: -772
+  y: 50
+  z: -365
+  type: admin
+  object:
+    type: witch
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 1976
+        type: PAPER
+        amount: 20
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 1976
+        type: EMERALD
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 1976
+        type: EMERALD
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 1976
+        type: REDSTONE
+        amount: 2
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 1976
+        type: EMERALD
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 1976
+        type: ELYTRA
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 1976
+        type: EMERALD
+        amount: 20
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 1976
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            MENDING: 1
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 1976
+        type: EMERALD
+        amount: 5
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 1976
+        type: ENDER_PEARL
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 1976
+        type: EMERALD
+        amount: 3
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 1976
+        type: EXPERIENCE_BOTTLE
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 1976
+        type: EMERALD
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 1976
+        type: APPLE
+        amount: 5
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 1976
+        type: EMERALD
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 1976
+        type: SHULKER_BOX
+    '8':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 1976
+        type: EMERALD
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 1976
+        type: FIREWORK_ROCKET
